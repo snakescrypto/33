@@ -1,0 +1,5 @@
+The game has Web3 interactions with Metamask to interact with tokens created on a BSC test network.
+We use the wallet address specified by the user in our Smart Contract to send the equivalent of Shiba INU in the Binance BEP20 Network, by outside the app.
+Consider the Web3 implementation like a message function between the users and the team.
+
+email : nahuel.ari.ben@gmail.com
